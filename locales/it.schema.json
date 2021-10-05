@@ -1526,6 +1526,12 @@
             },
             "text": {
               "label": "Descrizione"
+            },
+            "link_label": {
+              "label": "Etichetta link"
+            },
+            "link": {
+              "label": "Link"
             }
           }
         }
